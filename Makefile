@@ -1,0 +1,3 @@
+get-user:
+	aws iam $@
+
